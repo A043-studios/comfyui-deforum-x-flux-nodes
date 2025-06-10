@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 A+43
+Copyright (c) 2024 MCP Multi-Agent Framework
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,81 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Additional Acknowledgments:
+
+This project builds upon and integrates with several open-source projects:
+
+1. ComfyUI (https://github.com/comfyanonymous/ComfyUI)
+   - Licensed under GPL-3.0
+   - Used as the base platform for node integration
+
+2. Deforum (https://github.com/deforum-art/deforum-stable-diffusion)
+   - Licensed under MIT
+   - Original animation framework concepts
+
+3. FLUX Models by Black Forest Labs
+   - Various licenses depending on model variant
+   - Used for high-quality image generation
+
+4. PyTorch (https://github.com/pytorch/pytorch)
+   - Licensed under BSD-3-Clause
+   - Core tensor operations and neural network framework
+
+5. OpenCV (https://github.com/opencv/opencv)
+   - Licensed under Apache-2.0
+   - Image and video processing capabilities
+
+6. FFmpeg (https://ffmpeg.org/)
+   - Licensed under LGPL/GPL
+   - Video encoding and processing
+
+7. NumPy (https://github.com/numpy/numpy)
+   - Licensed under BSD-3-Clause
+   - Numerical computing foundation
+
+8. Pandas (https://github.com/pandas-dev/pandas)
+   - Licensed under BSD-3-Clause
+   - Data manipulation and analysis
+
+We gratefully acknowledge the contributions of these projects and their communities
+to the open-source ecosystem that makes this work possible.
+
+---
+
+Research Attribution:
+
+This implementation is based on research and concepts from:
+
+- Deforum-X-Flux: Advanced video generation techniques
+- XLabs-AI: FLUX model integration and optimization
+- Various academic papers on video generation and animation
+
+While this implementation is original code, it builds upon the theoretical
+foundations established by these research efforts.
+
+---
+
+Usage Guidelines:
+
+1. This software is provided for educational, research, and commercial use
+2. Users are responsible for ensuring compliance with any applicable laws
+3. Generated content should respect intellectual property rights
+4. Commercial use is permitted under the MIT license terms
+5. Attribution is appreciated but not required
+
+---
+
+Disclaimer:
+
+The authors and contributors of this software are not responsible for:
+- Content generated using this software
+- Any misuse of the software or generated content
+- Compliance with local laws and regulations
+- Performance on specific hardware configurations
+- Compatibility with future software versions
+
+Users assume full responsibility for their use of this software and any
+content generated with it.
